@@ -1,0 +1,3 @@
+# Master Thesis - Audio Similarity using Deep NLP Algorithms
+
+This is the master thesis of Jonathan Rösner on the topic of "Audio Similarity". In this work we will explore how neural-networks can create embeddings of songs in a latent space that best represents the similarity of songs. This will be achieved by an end-to-end unsupervised learning algorithm based on the modern concept of contrastive learning. The algorithm presented in this paper can be used to create playlists, make song recommendations or simply find similar songs. We will compare this algorithm to other methods of this domain, mainly supervised methods and show that even without labels, using the right transformations neural-networks can learn good representations of songs.
